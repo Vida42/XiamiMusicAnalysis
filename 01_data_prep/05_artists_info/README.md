@@ -1,6 +1,12 @@
 
 # Get the artist_name, artist_genre info of artists
 
+Using artist_ID to get these infomation.
+
+
+
+
+
 ## Glance
 
 ```
