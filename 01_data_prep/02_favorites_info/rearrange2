@@ -1,0 +1,26 @@
+
+# for a in range(9,13):#生成6，7，8
+# 	print(a)
+# 将figure31,figure32,figure33,figure34放一起写入figure4
+# extract = []
+# for a in range(1,5):#生成1，2，3，4
+# 	with open('figure3'+ str(a) + '.txt','r') as f2:
+# 	        for eachline in f2:
+# 	            extract.append(eachline.strip())
+# print(extract)
+# with open ("figure4.txt", 'a') as dele_w:
+# 	for i in extract:
+# 		dele_w.write(str(i)+'\n')
+
+
+# 将R2合并至Ra
+extract = []
+for a in range(2,5):#生成1，2，3，4
+	print(a)
+	with open('R3_2'+ str(a) + '.txt','r') as f2:
+	        for eachline in f2:
+	            extract.append(eachline.strip())
+
+with open ("Rc.txt", 'a') as dele_w:
+	for i in extract:
+		dele_w.write(str(i)+'\n')
