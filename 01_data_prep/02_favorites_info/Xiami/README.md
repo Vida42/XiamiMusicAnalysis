@@ -1,6 +1,6 @@
 ## `Xiami`为17年9月至10月自己写的爬虫
 
-## `Xiami`is web crawler written by myself in python during Sep. - Oct. 2017
+## `Xiami` is a web crawler written by myself in python during Sep. - Oct. 2017
 
 *Explanation for figure3.txt*
 
