@@ -1,0 +1,42 @@
+47274	http://i.xiami.com/anniehall	Annie Hall(贺柳)	270,1389,1541
+47357	http://i.xiami.com/bbsbbq	流星雨	2980
+47278	http://i.xiami.com/ant	蚂蚁先生(蚂蚁)	269,873,1541
+47406	http://i.xiami.com/bm666	Norðurskógur(Northern Forest)	875,3138,3277,303,3030
+47315	http://i.xiami.com/axax	安星	884,1389,1541
+47410	http://i.xiami.com/bocemo	莫博策(Boce Mo)	719http://www.xiami.com/genre/detail/gid/12
+47316	http://i.xiami.com/axian	DJ阿先	3,21,65,263
+47463	http://i.xiami.com/cd028	Hello、♥Soul♥(DJ Remix怪咖)	3,217,224,407,3046
+47470	http://i.xiami.com/ceezy	Ceezy	26,257,403,405,755
+47321	http://i.xiami.com/azui	阿罪(SoulEvil阿罪)	225,231,237
+47335	http://i.xiami.com/baili	周百里	1389
+47486	http://i.xiami.com/chenbailin	陈柏林	1541
+47490	http://i.xiami.com/chenglei	成磊(木头)	725http://www.xiami.com/genre/detail/gid/12http://www.xiami.com/genre/detail/gid/13,3019
+47348	http://i.xiami.com/baolei	鲍磊(LeiLei)	1541,1389,823
+47502	http://i.xiami.com/chenxiaofei	陈小飞(民谣陈小飞)	271
+47512	http://i.xiami.com/cheyeyang	叶洋	1541,322,947,231
+47506	http://i.xiami.com/chenyarou	鸭肉(小柔)	
+47514	http://i.xiami.com/chibachihaya	Utae(晚安酱)	24,27,878,2980
+47515	http://i.xiami.com/chichi	赤赤	269,1389
+47605	http://i.xiami.com/dafenghui	大晖 Tony(大疯晖)	1389,1541
+47645	http://i.xiami.com/daydreamer	空想家乐队(Day Dreamer)	322
+47657	http://i.xiami.com/deehus	胡迪(deehus)	1541
+47681	http://i.xiami.com/ding0009	丁延哲	1541
+47696	http://i.xiami.com/dj2668888	许昌刘帅(【士鸣魅音Ⅱ】)	252,349,2970,2980
+47736	http://i.xiami.com/dj_harry	DJ Harry	
+47746	http://i.xiami.com/domi	哆咪nic	225,1541
+47750	http://i.xiami.com/dongguo27	螺蛳壳工作室(dongguo27)	280
+47762	http://i.xiami.com/drumman	The Wind／石磊&王萌莹	506,700,1691
+47804	http://i.xiami.com/elim	亦乐Elim	3019,3346
+47849	http://i.xiami.com/fatkan	FatKan(BenisonKan)	223,229,231,1541,1718
+47854	http://i.xiami.com/feihou	飞猴音乐	3076,828
+47857	http://i.xiami.com/feiyangwong	KhalilWonger(O.M.)	160http://www.xiami.com/genre/detail/gid/10,1353,431,1155
+47873	http://i.xiami.com/fine	FINE乐团(独立乐团)	1541
+47974	http://i.xiami.com/greentrick	greentrick	828
+47980	http://i.xiami.com/guijia	BackHome(归家织网)	132,835
+47994	http://i.xiami.com/guonian	张过年	828
+48009	http://i.xiami.com/gzrband	改造人乐队	835,884
+48011	http://i.xiami.com/gzy	De_kleine_Prinz(G.Z.Y.)	160,351,696,725,1373
+48018	http://i.xiami.com/hait	hait君(hait)	290,725
+48026	http://i.xiami.com/handawei	韩大伟	828http://www.xiami.com/genre/detail/gid/12,850,1541
+48027	http://i.xiami.com/hangonthebox	Hang on the box(挂在盒子上)	249,681,884
+48033	http://i.xiami.com/hanyongjian	韩永健(Jackie Han)	269,835
