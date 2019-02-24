@@ -12,7 +12,7 @@ Using album_ID to get these infomation.
 这类专辑包括：
 
 
-
+```
 472819	8GiEVie46e1	iSdJd008c	kCoRbb594	光蕊
 744707	8GuIt7ec0a7	eGTA86eb6	xdJhS0b2de2	Honest (Remixes)
 883817	8HNXlpf59e0	yhDqpSc0d56	bfMQK3N33975	Still Got Time (The Remixes)
@@ -43,9 +43,15 @@ Using album_ID to get these infomation.
 8307731	xNga7ec81b3	dVSO49802	nnenbL5f9b6	I Get the Bag
 8308912	xNgTpBab7db	6rzec77a	yhPtDMd9fee	Los Ageless
 5678926	mSvPyw6e8b2	bqH0qBe3589f	yhPsOOa2295	Plot Twist (Remix)
+```
 
 其中歌曲共被收藏125次
 
 
 能加信息的就325213（从虾米都打不开，只能从外链打开）
+
 CHANGE オリジナル・サウンドトラック的专辑id不对了（song id打不开，艺人id正确）
+
+By the end, I got one file:
+
+* order, album_ID, album_language, album_released_date, album_genre
