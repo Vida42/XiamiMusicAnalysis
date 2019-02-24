@@ -4,7 +4,7 @@
 
 1. generate the sample: 3,250,000 user with their userID
 
-2. get the favorite lists of these users
+2. get the favorite lists(including the ID and the names of their favorite songs) of these users
 
 3. I crawl data in 
 
