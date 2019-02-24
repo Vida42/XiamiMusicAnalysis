@@ -56,7 +56,12 @@ for 404(deleted):
 
 that means the link of song can't be open. it shows:"您所查看的歌曲不存在或已经删除"
 
-![](https://github.com/Vida42/XiamiMusicAnalysis/blob/master/01_data_prep/03_songs_info/01_03_song_404.PNG)
+<p align="center">
+    <img src="https://github.com/Vida42/XiamiMusicAnalysis/blob/master/01_data_prep/03_songs_info/01_03_song_404.PNG" alt="Sample"  width="512" height="380">
+    <p align="center">
+        <em></em>
+    </p>
+</p>
 
 so there is no artist or album accordingly
 
@@ -76,7 +81,14 @@ some have no album(and some have no artist):
 
 that means the link of album can be open, but thers is nothing. it shows:"您所查看的专辑不存在或已经删除"
 
-![](https://github.com/Vida42/XiamiMusicAnalysis/blob/master/01_data_prep/03_songs_info/01_03_album_none.PNG)
+
+<p align="center">
+    <img src="https://github.com/Vida42/XiamiMusicAnalysis/blob/master/01_data_prep/03_songs_info/01_03_album_none.PNG" alt="Sample"  width="512" height="380">
+    <p align="center">
+        <em></em>
+    </p>
+</p>
+
 
 When an albumID is `ucad5b`, it's definitely empty(already deleted from the website). WHen an albumID is not `ucad5b`, it also has the probability to be empty.
 
