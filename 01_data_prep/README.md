@@ -4,6 +4,7 @@
 
 ## 1. Generate the sample: 3,250,000 user with their userID
 
+
 ## 2. Get the favorite lists of these users
 
 > **(including the IDs and the names of their favorite songs)**
@@ -17,8 +18,8 @@ This step was conducted in [02_favorites_info](https://github.com/Vida42/XiamiMu
 |info_user   |585,801  |1 |userID   |      |        |
 |relation    |8,338,301|3 |Timeorder|userID|songID  |
 
-## 3. Get the information of songs
 
+## 3. Get the information of songs
 
 > **(including the artist_ID, album_ID and album_name of these songs)**
 
@@ -40,8 +41,8 @@ Then I got this table:
 ……
 ```
 
-## 4. Get the information of albums
 
+## 4. Get the information of albums
 
 > **(including the album_language, album_released_date, album_genre of these albums)**
 
@@ -70,5 +71,33 @@ Then I got this table:
 740	0EIw2e4cf	英语	2007年01月01日	/genre/detail/gid/10
 741	0eJ42f725	英语	2004年03月23日	265
 742	0Eja30c81	其他	1999年01月01日	696
+……
+```
+
+
+## 5. Get the information of artists
+
+> **(including the artist_name, artist_genre info of artists of these artists)**
+
+Then I got this table:
+
+|field1|field2|field3|field4|
+|---|---|---|---|
+|order|artist_ID|artist_name|artist_genre|
+
+
+
+```
+253	2ML881cb	Supergrass	941
+254	2Mn77ca5	Spiritualized	956,989,1200,1331,1381
+255	2Mp7c3b8	Dusty Springfield	343,404,415,421,428
+256	2MPea2d0	Matthew Sweet	685
+257	2MS5b0e5	T. Rex	1148,275,278,322
+258	2Mu53033	Status Quo	275,286
+259	2Mz84ac5	Al Stewart	269,270,271,272,344
+260	2N1641ee	Van Halen	275,280,283
+261	2N35466a	Stevie Ray Vaughan & Double Trouble	113,118,323
+262	2NA5aa4c	Violent Femmes	686,685,1331
+263	2NG8c6f4	Weezer	835,1096,1331
 ……
 ```
