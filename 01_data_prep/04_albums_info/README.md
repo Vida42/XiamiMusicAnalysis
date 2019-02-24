@@ -3,6 +3,10 @@
 
 Using album_ID to get these infomation.
 
+## Xinfo_album
+
+Program used to get the data
+
 ## Issues
 
 有的专辑（比如s7xRpa52f9）
