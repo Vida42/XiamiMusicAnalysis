@@ -1,4 +1,9 @@
 
+# Get the artist_ID, album_ID and album_name info of songs
+
+
+## info_music.txt
+
 This stage begain with `info_music（含名字）.txt` and `info_music.txt`. Their structures are listed below:
 
 |table name|row|column|field1|field2|field3|
@@ -8,17 +13,26 @@ This stage begain with `info_music（含名字）.txt` and `info_music.txt`. The
 
 These tables were driven from `relation` table in MySQL(which I specified in [02_database_schema]()).
 
-`orders` means `Timeorder` in the table `relation`, this field records the order of users' favorite songs according to the time they added songs into their libraies,  reverse-chronological.
+* **`orders`**: means `Timeorder` in the table `relation`, this field records the order of users' favorite songs according to the time they added songs into their libraies,  reverse-chronological.
 
-I selected unique **820663** songs from the favorites of users' sample.
+* **songID**: I selected unique **820663** songs from the favorites of users' sample.
+
+* **song**: name of this song
 
 
+## arrange&combine.py
 
 First I used `arrange&combine.py` to split `info_music.txt` to 12 files:
 
 info_music1.txt to info_music12.txt
 
 Then I ran the program in different computers and combine the results into one file by using `arrange&combine.py` again.
+
+
+## Xiami_4.py
+
+It's the file to tackle issues mentioned below(302 and 404). The file to generaly crawl missed.
+
 
 ## Issues
 
