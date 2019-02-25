@@ -6,9 +6,9 @@ This projects consists of three parts:
 
 ## 2. [Basic Analysis](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/03_Basic_Analysis)
 
-## 3. [Measuring Diversity of Music Tastes in Online Musical Society](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/04_Diversity_of_Music_Tastes)
+## 3. [Measuring Diversity of Music Tastes](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/04_Diversity_of_Music_Tastes)
 
-
+## 4. [Evaluating Influence of users](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/05_Vital_Users_Identification)
 
 ## Note
 
