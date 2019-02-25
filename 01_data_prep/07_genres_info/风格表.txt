@@ -1,0 +1,494 @@
+gid2	流行	Pop
+3076	流行	Pop
+1541	国语流行	Mandarin Pop
+1542	粤语流行	Cantopop
+2980	电音流行	Electropop
+2970	欧美流行	Western Pop
+360	日本流行	J-Pop
+1718	韩国流行	K-Pop
+252	流行舞曲	Dance-Pop
+343	成人时代	Adult Contemporary
+873	独立流行	Indie Pop
+1382	艺术流行	Art Pop
+2986	男孩团体	Boy Band
+310	女子团体	Girl Group
+265	青少年流行	Teen Pop
+1648	闽南语流行	Taiwanese Pop
+989	梦幻流行	Dream Pop
+349	迷幻流行	Psychedelic Pop
+1033	氛围流行	Ambient Pop
+316	阳光流行	Sunshine Pop
+3022	台湾民歌运动	Taiwan Folk Scene
+1031	噪音流行	Noise Pop
+987	噪响流行	Jangle Pop
+3017	前卫流行	Progressive Pop
+769	传统流行	Traditional Pop
+768	标准歌曲	Standards
+1053	童稚流行	Twee Pop
+1337	C86	C86
+315	巴洛克流行	Baroque Pop
+1063	室内流行	Chamber Pop
+313	布瑞尔大厦流行	Brill Building Pop
+690	当代基督	CCM / Contemporary Christian Music
+1212	文雅流行	Sophisti Pop
+2985	韩国抒情歌曲	Korean Ballad
+550	凯尔特流行	Celtic Pop
+3039	致幻流行	Hypnagogic Pop
+357	法国流行	French Pop
+358	意大利流行	Italian Pop
+529	非洲流行	Afro-Pop
+2977	阿拉伯流行	Arabic Pop
+802	弗拉明戈流行	Flamenco Pop
+604	印度流行	Indian Pop
+1075	土耳其流行	Turkish Pop
+774	人声合唱团	Vocal Group
+gid3	摇滚	Rock
+322	摇滚	Rock & Roll
+835	流行摇滚	Pop Rock
+964	流行朋克	Pop Punk
+884	独立摇滚	Indie Rock
+941	英伦摇滚	Britpop
+1331	另类摇滚	Alternative Rock
+1381	迷幻摇滚	Psychedelic Rock
+681	朋克	Punk Rock
+687	后摇	Post-Rock
+275	硬摇滚	Hard Rock
+956	新迷幻	Neo-Psychedelia
+247	噪音摇滚	Noise Rock
+1091	自赏	Shoegaze
+686	后朋克	Post-Punk
+1338	垃圾摇滚	Grunge
+1094	新浪潮	New Wave
+1385	低保真	Lo-Fi
+2989	后朋复兴	Post-Punk Revival
+245	前卫摇滚	Progressive Rock
+278	华丽摇滚	Glam Rock
+1088	慢核	Slowcore
+1057	哥特摇滚	Gothic Rock
+2981	工业摇滚	Industrial Rock
+1339	数学摇滚	Math Rock
+689	后垃圾摇滚	Post-Grunge
+295	说唱摇滚	Rap Rock
+1062	艺术摇滚	Art Rock
+368	默西之声	Merseybeat
+307	基督摇滚	Christian Rock
+680	喜剧摇滚	Comedy Rock
+892	情绪硬核	Emo
+249	实验摇滚	Experimental Rock
+251	先锋前卫摇滚	Avant-Prog
+271	民谣摇滚	Folk Rock
+348	酸性摇滚	Acid Rock
+726	成人另类	Adult Alternative
+334	美国传统摇滚	American Trad Rock
+283	舞台摇滚	Arena Rock
+293	澳洲摇滚	Aussie Rock
+323	布鲁斯摇滚	Blues Rock
+272	英国民谣摇滚	British Folk Rock
+1240	英国传统摇滚	British Trad Rock
+796	凯尔特摇滚	Celtic Rock
+2988	冷潮	Coldwave
+685	学院摇滚	College Rock
+3226	舞曲朋克	Dance-Punk
+867	暗潮	Dark Wave
+3236	仙音	Ethereal Wave
+363	法国摇滚	French Rock
+1116	车库朋克	Garage Punk
+347	车库摇滚	Garage Rock
+959	车库摇滚复兴	Garage Rock Revival
+913	硬核朋克	Hardcore Punk
+336	中心地带摇滚	Heartland Rock
+1076	工业	Industrial
+361	日本摇滚	J-Rock
+164	爵士摇滚	Jazz Rock
+246	德国前卫摇滚	Krautrock
+370	现代主义	Mod
+1351	新浪漫	New Romantic
+1352	无浪潮	No Wave
+3034	钢琴摇滚	Piano Rock
+914	后硬核	Post-Hardcore
+1096	电力流行	Power Pop
+1148	原型朋克	Proto-Punk
+329	酒吧摇滚	Pub Rock
+326	山区乡村摇滚	Rockabilly
+327	根源摇滚	Roots Rock
+1268	滑板朋克	Skate Punk
+344	轻摇滚	Soft Rock
+276	美国南方摇滚	Southern Rock
+328	冲浪摇滚	Surf Rock
+333	沼泽摇滚	Swamp Pop
+324	美式墨西哥摇滚	Tex-Mex
+1171	视觉摇滚	Visual Rock
+gid16	民谣	Folk
+849	民谣	Folk
+828	当代民谣	Contemporary Folk
+1389	独立民谣	Indie Folk
+823	城市民谣	Urban Folk
+269	民谣流行	Folk Pop
+3026	校园民谣	Campus Folk
+809	传统民谣	Traditional Folk
+1606	新民谣	Neofolk
+352	迷幻民谣	Psychedelic Folk
+829	前卫民谣	Progressive Folk
+3005	奇幻民谣	Freak Folk
+3006	室内民谣	Chamber Folk
+3007	先锋民谣	Avant-Folk
+830	反民谣	Anti-Folk
+3011	美国传统民谣	American Folk
+783	英国传统民谣	English Folk
+3016	法国民谣	French Folk
+780	凯尔特民谣	Celtic Folk
+815	爱尔兰民谣	Irish Folk
+792	苏格兰民谣	Scottish Folk
+3009	阿拉伯民谣	Arabic Folk
+546	非洲民谣	African Folk
+822	新传统主义民谣	Neo-Traditional Folk
+826	政治民谣	Political Folk
+gid9	电子	Electronic
+842	电子	Electronic
+947	独立电子乐	Indietronica
+1825	电子民谣	Folktronica
+52	缓拍	Downtempo
+878	回响贝斯	Dubstep
+26	神游舞曲	Trip Hop
+730	氛围音乐	Ambient
+2	浩室舞曲	House
+21	科技舞曲	Techno
+25	迷幻舞曲	Trance
+3	迪斯科	Disco
+65	智能舞曲	IDM
+31	氛围科技舞曲	Ambient Techno
+1010	合成器流行	Synthpop
+24	鼓打贝斯	Drum & Bass
+32	黑暗氛围	Dark Ambient
+47	二步舞曲	2-Step
+19	酸性浩室舞曲	Acid House
+263	另类舞曲	Alternative Dance
+30	氛围回响	Ambient Dub
+46	氛围浩室舞曲	Ambient House
+48	大节拍	Big Beat
+66	碎拍	Breakbeat
+3049	芝加哥浩室舞曲	Chicago House
+1459	弛放	Chillout
+2764	寒潮	Chillwave
+59	深浩室舞曲	Deep House
+8	电子舞曲	EDM / Electronic Dance Music
+27	放克电子	Electro (Electro-Funk)
+3046	电子迪斯科	Electro-Disco
+1077	电工业舞曲	Electro-Industrial
+3348	未来贝斯	Future Bass
+3035	未来车库舞曲	Future Garage
+63	脉冲	Glitch
+3043	脉冲流行	Glitch Pop
+5	高能量迪斯科	Hi-NRG
+68	微浩室舞曲	Microhouse
+70	微声	Microsound
+61	极简科技舞曲	Minimal Techno
+3018	极简潮	Minimal Wave
+9	锐舞音乐	Rave Music
+3042	合成器朋克	Synth Punk
+51	科技浩室舞曲	Tech House
+1527	陷阱舞曲	Trap
+261	英国车库舞曲	UK Garage
+3349	蒸汽波	Vaporwave
+3041	女巫浩室	Witch House
+3038	恍惚嘻哈舞曲	Wonky
+gid10	节奏布鲁斯	R&B
+843	节奏布鲁斯	R&B
+234	当代节奏布鲁斯	Contemporary R&B
+405	放克	Funk
+404	灵魂乐	Soul
+421	流行灵魂乐	Pop Soul
+431	新灵魂乐	Neo-Soul
+3303	另类节奏布鲁斯	Alternative R&B
+415	白人灵魂乐	Blue Eyed Soul
+427	芝加哥灵魂乐	Chicago Soul
+418	乡村灵魂乐	Country Soul
+433	深度放克	Deep Funk
+425	深度灵魂乐	Deep Soul
+411	嘟喔普	Doo Wop
+188	爵士放克	Jazz Funk
+412	摩城	Motown
+377	新杰克摇摆乐	New Jack Swing
+420	北方灵魂乐	Northern Soul
+432	迷幻灵魂乐	Psychedelic Soul
+386	平静风暴	Quiet Storm
+407	节奏布鲁斯	Rhythm & Blues
+428	柔顺灵魂乐	Smooth Soul
+424	南方灵魂乐	Southern Soul
+gid5	爵士	Jazz
+838	爵士	Jazz
+1155	巴萨诺瓦	Bossa Nova
+160	爵士流行	Jazz Pop
+257	酸性爵士	Acid Jazz
+197	非洲爵士	African Jazz
+193	古巴爵士	Afro-Cuban Jazz
+158	先锋爵士	Avant-Garde Jazz
+134	大乐队	Big Band
+147	波普	Bop
+149	室内爵士	Chamber Jazz
+150	冷爵士	Cool Jazz
+179	迪克西兰爵士	Dixieland
+143	实验大乐队	Experimental Big Band
+155	自由爵士	Free Jazz
+190	硬波普	Hard Bop
+159	融合爵士	Jazz Fusion
+168	调式爵士	Modal Jazz
+182	新奥尔良爵士	New Orleans Jazz
+166	后波普	Post-Bop
+178	拉格泰姆	Ragtime
+165	柔顺爵士	Smooth Jazz
+189	灵魂爵士	Soul Jazz
+136	摇摆乐	Swing
+156	第三流派	Third Stream
+773	人声爵士	Vocal Jazz
+gid12	轻音乐	Easy Listening
+845	轻音乐	Easy Listening
+723	沙发音乐	Lounge
+721	异域	Exotica
+715	器乐流行	Instrumental Pop
+719	轻音乐流行	Light Pop
+714	管弦乐流行	Orchestral Pop
+725	器乐独奏	Solo Instrumental
+gid1	嘻哈(说唱)	Hip Hop
+1353	嘻哈	Hip-Hop
+231	流行说唱	Pop Rap
+229	西岸说唱	West Coast Hip Hop
+223	东岸说唱	East Coast Hip Hop
+232	英伦说唱	British Hip Hop
+225	爵士说唱	Jazz Rap
+233	喜剧说唱	Comedy Hip Hop
+237	地下说唱	Underground Hip Hop
+2930	意识说唱	Conscious Hip Hop
+221	另类说唱	Alternative Hip Hop
+239	南方脏口	Dirty South
+235	不良说唱	Dirty Hip Hop
+2931	实验说唱	Experimental Hip Hop
+216	基督教说唱	Christian Hip Hop
+378	匪帮放克	G-Funk
+217	匪帮说唱	Gangsta Rap
+224	硬核说唱	Hardcore Hip Hop
+2933	器乐说唱	Instrumental Hip Hop
+243	中西部说唱	Midwest Hip Hop
+226	老派说唱	Old-school Hip Hop
+240	政治说唱	Political Hip Hop
+228	南方说唱	Southern Hip Hop
+238	唱盘主义	Turntablism
+2929	抽象说唱	Abstract Hip Hop
+3341	中国地下说唱	Chinese Underground Hip Hop
+403	另类嘻哈	Left-Field Hip-Hop
+3285	陷阱说唱	Trap Rap
+gid24	动漫	ACG
+3344	日本动漫游戏	Japanese ACG
+1098	同人音乐	DouJin
+3244	广播剧	Radio Drama
+gid4	布鲁斯	Blues
+837	布鲁斯	Blues
+117	电声布鲁斯	Electric Blues
+87	三角洲布鲁斯	Delta Blues
+130	钢琴布鲁斯	Piano Blues
+75	原声布鲁斯	Acoustic Blues
+132	爵士布鲁斯	Jazz Blues
+115	灵魂布鲁斯	Soul Blues
+73	芝加哥布鲁斯	Chicago Blues
+84	乡村布鲁斯	Country Blues
+99	跳跃布鲁斯	Jump Blues
+177	布基伍基	Boogie Woogie
+369	英国布鲁斯	British Blues
+88	民谣布鲁斯	Folk Blues
+124	新奥尔良布鲁斯	New Orleans Blues
+123	城市布鲁斯	Urban Blues
+gid18	金属	Metal
+2973	金属	Metal
+280	重金属	Heavy Metal
+1358	激流金属	Thrash Metal
+284	另类金属	Alternative Metal
+277	死亡金属	Death Metal
+290	前卫金属	Progressive Metal
+875	黑金属	Black Metal
+1457	民谣金属	Folk Metal
+303	厄运金属	Doom Metal
+865	新金属	Nu Metal
+3138	氛围黑金属	Atmospheric Black Metal
+3277	自赏黑	Blackgaze
+3302	电子核	Electronicore
+294	华丽金属	Glam Metal
+302	哥特金属	Gothic Metal
+279	碾核	Grindcore
+287	工业金属	Industrial Metal
+3117	旋律死亡金属	Melodic Death Metal
+1711	金属核	Metalcore
+291	新古典金属	Neo-Classical Metal
+306	能量金属	Power Metal
+299	朋克金属	Punk Metal
+305	泥浆金属	Sludge Metal
+281	速度金属	Speed Metal
+1359	交响金属	Symphonic Metal
+3147	技术死亡金属	Technical Death Metal
+3162	维京金属	Viking Metal
+gid7	世界音乐	World Music
+3087	世界音乐	World Music
+858	韩国|演歌	Korea Trot
+860	韩国传统音乐	Korean Traditional Music
+854	日本|岛呗	Shima Uta
+856	日本|演歌	Enka
+857	日本|邦乐	Japanese Traditional Music
+767	无伴奏合唱	A cappella
+530	非洲打击乐	Afrobeat
+599	印度|邦拉	Bhangra
+642	美国|凯金	Cajun
+446	加勒比|卡吕普索	Calypso
+996	法国|香颂	Chanson
+805	葡萄牙|法朵	Fado
+635	西班牙|弗拉门戈	Flamenco
+677	福音	Gospel
+610	格里高利圣咏	Gregorian chant
+629	犹太音乐	Jewish Music
+611	犹太|克莱兹梅尔	Klezmer
+923	巴西|全域音乐	MPB
+210	多米尼加|默朗格	Merengue
+597	巴基斯坦|卡瓦里	Qawwali
+598	印度|拉格	Raga
+211	古巴|伦巴	Rumba
+3174	巴西|桑巴	Samba
+1102	古巴|颂乐	Son
+605	蒙古|呼麦	Throat Singing
+506	世界融合	World Fusion
+513	世界节拍	Worldbeat
+644	美国|柴迪科舞曲	Zydeco
+gid13	新世纪	New Age
+846	新世纪音乐	New Age
+741	自然新世纪	Nature New Age
+743	精神新世纪	Spiritual New Age
+729	民族融合新世纪	Ethnic Fusion New Age
+3164	宗教新世纪	Religionary New Age
+739	太空新世纪	Space New Age
+736	放松新世纪	Relaxation New Age
+745	凯尔特新世纪	Celtic New Age
+3166	日本新世纪	Japanese New Age
+733	部落新世纪	Techno-Tribal New Age
+3167	新古典新世纪	Neoclassical New Age
+gid14	舞台/银幕/娱乐	Stage & Screen & Entertainment
+746	原声	Soundtrack
+747	电影原声	Film Score
+752	电视原声	Television Music
+755	卡通配乐	Cartoon Music
+754	游戏配乐	Video Game Music
+759	音乐剧	Musical theatre
+765	歌舞剧	Cabaret
+761	演出金曲	Show Tunes
+3168	宝莱坞电影配乐	Filmi
+gid20	乡村	Country
+836	乡村	Country
+469	当代乡村	Contemporary Country
+473	乡村流行	Country Pop
+495	蓝草	Bluegrass
+466	另类乡村	Alt-Country
+1284	乡村摇滚	Country Rock
+487	乡村民谣	Country Folk
+486	前卫乡村	Progressive Country
+467	美式乡村	Americana
+493	牛仔	Cowboy
+1285	传统乡村	Traditional Country
+490	传统蓝草	Traditional Bluegrass
+497	乡村福音	Country Gospel
+474	纳什维尔之声	Nashville Sound
+472	当代蓝草	Contemporary Bluegrass
+499	乡村布吉	Country Boogie
+498	器乐乡村	Instrumental Country
+734	新原音	New Acoustic
+488	叛道乡村	Outlaw Country
+485	前卫蓝草	Progressive Bluegrass
+496	弦乐团	String Band
+475	都市牛仔	Urban Cowboy
+504	西部摇摆	Western Swing
+gid6	雷鬼	Reggae
+839	雷鬼	Reggae
+454	回响	Dub
+438	斯卡	Ska
+456	雷鬼流行	Reggae Pop
+455	雷嘎	Ragga
+442	舞厅	Dancehall
+459	根源雷鬼	Roots Reggae
+453	迪杰	Deejay / Toasting
+461	当代雷鬼	Contemporary Reggae
+440	洛克斯代迪	Rocksteady
+463	政治雷鬼	Political Reggae
+gid21	古典	Classical
+3264	古典音乐	Classical
+2799	西方古典	Western Classical Music
+696	当代古典	Modern Classical
+1376	声乐	Vocal Music
+1373	管弦乐	Orchestral
+1372	歌剧	Opera
+2236	教堂音乐	Church Music
+2237	艺术歌曲	Lied
+1364	合唱	Choral
+1375	交响乐	Symphonic Music
+3113	交响曲	Symphony
+1366	协奏曲	Concerto
+2239	芭蕾	Ballet
+2238	独奏	Recital
+1363	室内乐/重奏	Chamber Music
+720	古典跨界	Classical Crossover
+3278	康塔塔	Cantata
+1369	键盘音乐	Keyboard
+695	极简主义	Minimalism
+3279	清唱剧	Oratorio
+711	后极简主义	Post-Minimalism
+3224	奏鸣曲	Sonata
+gid15	唱作人	Singer-Songwriter
+270	根源唱作人	Singer-Songwriter
+831	当代唱作人	Contemporary Singer-Songwriter
+874	另类唱作人	Alternative Singer-Songwriter
+3092	华语唱作人	Chinese Singer-Songwriter
+gid8	拉丁	Latin
+841	拉美音乐	Latin American Music
+889	拉丁流行	Latin Pop
+171	拉丁爵士	Latin Jazz
+410	拉丁灵魂乐	Latin Soul
+340	拉丁摇滚	Latin Rock
+230	拉丁说唱	Latin Hip Hop
+664	巴恰塔	Bachata
+198	萨尔萨	Salsa
+2148	探戈	Tango
+212	热带	Tropical
+gid19	中国特色	Chinese Characteristic
+853	中国戏曲	Chinese Opera
+3237	京剧	Beijing Opera
+3242	昆曲	Kunqu Opera
+3239	越剧	Shaoxing Opera
+3241	黄梅戏	Huangmei Opera
+3243	粤剧	Cantonese Opera
+3240	评剧	Pingju Opera
+3238	豫剧	Yu Opera
+852	中国曲艺	Chinese Quyi
+851	中国民乐	Chinese Folk Music
+850	中国传统民歌	Chinese Traditional Folk
+3346	古风	gufeng
+3019	中国风	China-Wave
+3027	红歌	Red Song
+3025	军旅歌曲	Military Songs
+3012	台湾原住民音乐	Taiwan Aboriginal
+2190	时代曲	Shidaiqu
+3350	佛教音乐	Buddhist Music
+3351	喊麦	MC
+936	西藏传统乐	Tibetan Traditional Music
+gid11	实验	Experimental
+697	实验音乐	Experimental
+694	电子原声	Electroacoustic
+700	自由即兴	Free Improvisation
+699	噪音	Noise
+818	自然采样	Field Recordings
+707	声效拼贴	Sound Collage
+3030	蜂鸣	Drone
+706	磁带音乐	Tape Music
+3111	诵读音乐	Spoken Word
+693	实验电子	Experimental Electronic
+351	边缘音乐人	Obscuro
+gid22	儿童	Children
+3281	儿歌	Nursery Rhyme
+3249	儿童音乐	Children's Music
+3280	童声合唱团	Children's Chorus
+3282	胎教音乐	Prenatal Music
+gid23	有声书	Audio Book
+3223	有声书	Audio Book
