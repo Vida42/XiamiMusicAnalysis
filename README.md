@@ -4,9 +4,10 @@ This projects consists of three parts:
 
 ## 1. [WebCrawler for Xiami Music](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/01_data_prep)
 
-## 2. [Measuring Diversity of Music Tastes in Online Musical Society](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/03_Diversity_of_Music_Tastes)
+## 2. [Basic Analysis](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/03_Basic_Analysis)
 
-## 3. [User Behaviour Analytics of Online Musical Media](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/04_User_Behaviour_Analytics)
+## 3. [Measuring Diversity of Music Tastes in Online Musical Society](https://github.com/Vida42/XiamiMusicAnalysis/tree/master/04_Diversity_of_Music_Tastes)
+
 
 
 ## Note
