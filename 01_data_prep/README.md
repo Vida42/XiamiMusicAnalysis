@@ -131,6 +131,7 @@ Then I got this table:
 ## 7. Get the information of genres
 
 > **(including ID, Chinese name and English name of these genres)**
+
 Then I got this table:
 
 |field|field2|field3|
