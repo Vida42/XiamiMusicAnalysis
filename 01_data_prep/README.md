@@ -126,3 +126,25 @@ Then I got this table:
 766710  来自广东广州的魔羯座大虾    2010-03-30  19595   Lv6 759次访问  4   21  8
 ……
 ```
+
+
+## 7. Get the information of genres
+
+> **(including ID, Chinese name and English name of these genres)**
+Then I got this table:
+
+|field|field2|field3|
+|---|---|---|
+|genre_ID|genre_name_CN|genre_name_EN|
+
+
+```
+gid2	流行	Pop
+3076	流行	Pop
+1541	国语流行	Mandarin Pop
+1542	粤语流行	Cantopop
+2980	电音流行	Electropop
+2970	欧美流行	Western Pop
+360	日本流行	J-Pop
+……
+```
