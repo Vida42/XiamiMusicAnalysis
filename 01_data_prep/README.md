@@ -101,3 +101,28 @@ Then I got this table:
 263	2NG8c6f4	Weezer	835,1096,1331
 ……
 ```
+
+
+## 6. Get the information of users
+
+> **(including general information, jion time, play count, level, visit, follow, fans, feed of these users)**
+
+Then I got this table:
+
+|field1|field2|field3|field4|field5|field6|field7|field8|field9|
+|---|---|---|---|---|---|---|---|---|
+|order|general information|jion time|play count|level|visit|follow|fans|feed|
+
+
+```
+76664358    来自山东的女生 2015-10-25  3087    Lv6 25次访问   0   0   3
+7666568 来自山东淄博的80后未知女生  2012-01-14  4635    Lv5 160次访问  2   2   8
+76666466    欢迎 大虾   2015-10-25  351 Lv1 0次访问    0   0   0
+7666786 欢迎 大虾   2012-01-14  3513    Lv5 243次访问  1   0   6
+7666795 来自江苏苏州的80后射手座男生 2012-01-14  2045    Lv2 204次访问  1   1   6
+7666816 欢迎 大虾   2012-01-14  19  Lv1 88次访问   0   0   0
+76668528    欢迎 大虾   2015-10-25  267 Lv1 0次访问    0   0   0
+76669322    欢迎 男生   2015-10-25  1204    Lv4 0次访问    0   0   1
+766710  来自广东广州的魔羯座大虾    2010-03-30  19595   Lv6 759次访问  4   21  8
+……
+```
